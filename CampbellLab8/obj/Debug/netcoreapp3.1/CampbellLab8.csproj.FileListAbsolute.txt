@@ -1,0 +1,13 @@
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\bin\Debug\netcoreapp3.1\CampbellLab8.exe
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\bin\Debug\netcoreapp3.1\CampbellLab8.deps.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\bin\Debug\netcoreapp3.1\CampbellLab8.runtimeconfig.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\bin\Debug\netcoreapp3.1\CampbellLab8.runtimeconfig.dev.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\bin\Debug\netcoreapp3.1\CampbellLab8.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\bin\Debug\netcoreapp3.1\CampbellLab8.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\obj\Debug\netcoreapp3.1\CampbellLab8.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\obj\Debug\netcoreapp3.1\CampbellLab8.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\obj\Debug\netcoreapp3.1\CampbellLab8.AssemblyInfo.cs
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\obj\Debug\netcoreapp3.1\CampbellLab8.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\obj\Debug\netcoreapp3.1\CampbellLab8.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\obj\Debug\netcoreapp3.1\CampbellLab8.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\CampbellLab8\CampbellLab8\obj\Debug\netcoreapp3.1\CampbellLab8.genruntimeconfig.cache
